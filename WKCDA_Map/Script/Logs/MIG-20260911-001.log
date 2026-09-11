@@ -1,0 +1,34 @@
+2026-09-11 16:21:46,626 INFO Connecting to source portal...
+2026-09-11 16:21:49,494 INFO Connecting to target portal...
+2026-09-11 16:21:51,545 INFO Processing source item: 3719892a188a4f8181280fb0c7a1b048
+2026-09-11 16:21:51,566 INFO Cloning: LandsD 3D Visualisation Map [Web Scene] ID=3719892a188a4f8181280fb0c7a1b048
+2026-09-11 16:21:51,650 INFO Processing Level: 0
+2026-09-11 16:21:53,556 INFO Completed
+2026-09-11 16:21:53,566 INFO Source ID : 3719892a188a4f8181280fb0c7a1b048
+2026-09-11 16:21:53,570 INFO Target ID : 3719892a188a4f8181280fb0c7a1b048
+2026-09-11 16:21:53,578 INFO Preserved : True
+2026-09-11 16:21:53,582 INFO Processing source item: ac6aafe1c1ba488ba0615566a2b298eb
+2026-09-11 16:21:53,604 INFO Cloning: Lot Boundary [Feature Service] ID=ac6aafe1c1ba488ba0615566a2b298eb
+2026-09-11 16:21:53,843 INFO Processing Level: 0
+2026-09-11 16:22:19,621 INFO Completed
+2026-09-11 16:22:19,629 INFO Source ID : ac6aafe1c1ba488ba0615566a2b298eb
+2026-09-11 16:22:19,632 INFO Target ID : ac6aafe1c1ba488ba0615566a2b298eb
+2026-09-11 16:22:19,633 INFO Preserved : True
+2026-09-11 16:22:19,635 INFO Processing source item: 357075b18e1b474aa1f8581d6e6f41b3
+2026-09-11 16:22:19,655 INFO Cloning: Development Plan Zoning [Feature Service] ID=357075b18e1b474aa1f8581d6e6f41b3
+2026-09-11 16:22:19,774 INFO Processing Level: 0
+2026-09-11 16:22:43,645 INFO Completed
+2026-09-11 16:22:43,653 INFO Source ID : 357075b18e1b474aa1f8581d6e6f41b3
+2026-09-11 16:22:43,658 INFO Target ID : 357075b18e1b474aa1f8581d6e6f41b3
+2026-09-11 16:22:43,662 INFO Preserved : True
+2026-09-11 16:22:43,667 INFO Processing source item: 57a30fd4875e4ee49d128ff59417e0b7
+2026-09-11 16:22:43,757 INFO Cloning: Boundary & Zoning Demo Map [Web Scene] ID=57a30fd4875e4ee49d128ff59417e0b7
+2026-09-11 16:22:44,184 INFO Processing Level: 0
+2026-09-11 16:22:44,282 INFO Lot Boundary not cloned; already existent in target org.
+2026-09-11 16:22:44,342 INFO Development Plan Zoning not cloned; already existent in target org.
+2026-09-11 16:22:44,345 INFO Processing Level: 1
+2026-09-11 16:22:45,833 INFO Completed
+2026-09-11 16:22:45,851 INFO Source ID : 57a30fd4875e4ee49d128ff59417e0b7
+2026-09-11 16:22:45,856 INFO Target ID : 57a30fd4875e4ee49d128ff59417e0b7
+2026-09-11 16:22:45,861 INFO Preserved : True
+2026-09-11 16:22:45,867 INFO Migration completed
