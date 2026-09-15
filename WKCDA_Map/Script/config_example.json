@@ -1,11 +1,11 @@
 {
-    "aprx":     "C:\\Projects\\Demo\\Demo.aprx",
-    "portal":   "https://www.arcgis.com",
-    "user":     "myuser",
+    "aprx":     "..\\WKCDA_MAP.aprx",
+    "portal":   "https://www-uat.wkcdagis.com/portal",
+    "user":     "appadmin",
     "password": "",
     "password_env_var": "PORTAL_PWD",
-    "folder":   "Auto Published",
-    "maps":     ["Map", "Utilities"],
+    "folder":   "CDS Batch 1",
+    "maps":     ["P18", "P19"],
     "workdir":  "",
     "tags":     "auto-publish, arcpy"
 }
