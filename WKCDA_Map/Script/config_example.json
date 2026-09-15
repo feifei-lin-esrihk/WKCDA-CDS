@@ -1,0 +1,11 @@
+{
+    "aprx":     "C:\\Projects\\Demo\\Demo.aprx",
+    "portal":   "https://www.arcgis.com",
+    "user":     "myuser",
+    "password": "",
+    "password_env_var": "PORTAL_PWD",
+    "folder":   "Auto Published",
+    "maps":     ["Map", "Utilities"],
+    "workdir":  "",
+    "tags":     "auto-publish, arcpy"
+}
