@@ -1,0 +1,59 @@
+Transmittal Report:
+Created by AutoCAD eTransmit 2021¦~1¤ë28¤é, 6:04.
+
+Drawing:
+This is a transmittal based on 3B52X-ARC-DWG-P00-XXXX-5001-GBP-03.dwg.
+
+Files:
+
+Root Drawing:
+	3B52X-ARC-DWG-P00-XXXX-5001-GBP-03.dwg
+
+AutoCAD Drawing (External) References:
+	Xref (park layers)\G0TBA1V.DWG
+
+AutoCAD Color-dependent Plot Style Table File References:
+	PlotCfgs\Kodak 1000.ctb
+
+AutoCAD Plotter Configuration File References:
+	PlotCfgs\DWG To PDF.pc3
+
+JPEG image References:
+	Title Block\CHINESE HORIZONTAL-original cmyk-1.jpg
+
+The following files were excluded from the transmittal:
+	acad.fmp
+	Fonts\simplex.shx
+	Fonts\swiss.ttf
+	Fonts\swissl.ttf
+	Fonts\arial.ttf
+	Fonts\romans.shx
+	Fonts\swissb.ttf
+
+The following files could not be located:
+	PlotCfgs\HP1055CM.ctb
+
+
+Conversion:
+All drawing files were converted to AutoCAD 2000/LT2000 format.
+
+
+Notes for distribution:
+
+.DWG external reference files:
+External reference (xref) paths may be present.  Make sure these paths work or that the root drawing is using the correct references.
+eTransmit does not include files required by xrefs unless they are also required by the root drawing.  In particular, plot style tables and overlay xrefs that are not used by the root drawing are omitted
+
+Raster image files:
+Paths may be present on references to raster images.  Make sure these paths work or that the root drawing is using the correct references.
+
+.PC3 printer configuration files:
+Please copy these files to the AutoCAD Printer Configuration Search Path directory.
+
+.CTB/.STB plot style tables:
+Please copy these files to the AutoCAD Plot Style Table Search Path directory.
+
+The AutoCAD variable FONTALT was set to:
+C:\Users\Thomas\appdata\roaming\autodesk\autocad 2018\r22.0\enu\support\simplex.shx
+Please make sure that the FONTALT variable is set to this file or an equivalent before opening any drawings.  All text styles with missing fonts are automatically set to this font.
+

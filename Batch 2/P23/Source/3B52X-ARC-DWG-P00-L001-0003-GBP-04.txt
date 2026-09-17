@@ -1,0 +1,78 @@
+Transmittal Report:
+Created by AutoCAD eTransmit 2021¦~1¤ë28¤é, 5:48.
+
+Drawing:
+This is a transmittal based on 3B52X-ARC-DWG-P00-L001-0003-GBP-04.dwg.
+
+Files:
+
+Root Drawing:
+	3B52X-ARC-DWG-P00-L001-0003-GBP-04.dwg
+
+AutoCAD Drawing (External) References:
+	Xref (park layers)\G0TBA1V.DWG
+	Xref (park layers)\emergency route.dwg
+	Xref (park layers)\Infrastructure - Pillar boxes.dwg
+	Xref (park layers)\paving-concrete 2-06072016.dwg
+	Xref (park layers)\project boundary.dwg
+	Xref (park layers)\secondary path.dwg
+	Xref (park layers)\topography 2.dwg
+	Xref (park layers)\drainage.dwg
+	Xref (park layers)\shrubs and groundcovers.dwg
+	Xref (park layers)\architecture 2.dwg
+	Xref (park layers)\Infrastructure - Fire Hydrants.dwg
+	Xref (park layers)\stand alone bench.dwg
+
+JPEG image References:
+	Textures\Concrete.Cast-In-Place.Flat.Grey.1.jpg
+	Title Block\CHINESE HORIZONTAL-original cmyk-1.jpg
+
+AutoCAD Color-dependent Plot Style Table File References:
+	PlotCfgs\Kodak 1000.ctb
+
+AutoCAD Plotter Configuration File References:
+	PlotCfgs\DWG To PDF.pc3
+
+The following files were excluded from the transmittal:
+	acad.fmp
+	Fonts\simplex.shx
+	Fonts\swiss.ttf
+	Fonts\swissl.ttf
+	Fonts\arial.ttf
+	Fonts\romans.shx
+	Fonts\swissc.ttf
+	Fonts\swissb.ttf
+	Fonts\txt.shx
+	Fonts\calibri.ttf
+	Fonts\ltypeshp.shx
+
+The following files could not be located:
+	PlotCfgs\HP1055CM.ctb
+
+
+Conversion:
+All drawing files were converted to AutoCAD 2000/LT2000 format.
+
+
+Notes for distribution:
+
+.DWG external reference files:
+External reference (xref) paths may be present.  Make sure these paths work or that the root drawing is using the correct references.
+eTransmit does not include files required by xrefs unless they are also required by the root drawing.  In particular, plot style tables and overlay xrefs that are not used by the root drawing are omitted
+
+Raster image files:
+Paths may be present on references to raster images.  Make sure these paths work or that the root drawing is using the correct references.
+
+.PC3 printer configuration files:
+Please copy these files to the AutoCAD Printer Configuration Search Path directory.
+
+.CTB/.STB plot style tables:
+Please copy these files to the AutoCAD Plot Style Table Search Path directory.
+
+Material texture files:
+Please copy these files to the AutoCAD Texture Maps Search Path directory.
+
+The AutoCAD variable FONTALT was set to:
+C:\Users\Thomas\appdata\roaming\autodesk\autocad 2018\r22.0\enu\support\simplex.shx
+Please make sure that the FONTALT variable is set to this file or an equivalent before opening any drawings.  All text styles with missing fonts are automatically set to this font.
+

@@ -1,0 +1,59 @@
+Transmittal Report:
+Created by AutoCAD eTransmit 2017\U+5E746\U+670819\U+65E5, 14:57.
+
+Drawing:
+This is a transmittal based on 3B52X-ARC-DWG-P01-L000-1001-GBP-XA.dwg.
+
+Files:
+
+Root Drawing:
+	3B52X-ARC-DWG-P01-L000-1001-GBP-XA.dwg
+
+AutoCAD Drawing (External) References:
+	Xref\3B52X-MAGP-P-ST00.dwg
+	Xref\3B52X-MAGP-P-GD00.dwg
+	Plan\3B52X-MAGP-P-ST01.dwg
+	Plan\3B52X-MAGP-P-L000_XB.dwg
+	Plan\3B52X-MAGP-P-L02R_XB.dwg
+	Plan\3B52X-MAGP-P-L001_XB.dwg
+
+AutoCAD Color-dependent Plot Style Table File References:
+	PlotCfgs\VPA1401.ctb
+
+AutoCAD Plotter Configuration File References:
+	PlotCfgs\DWG To PDF.pc3
+
+The following files were excluded from the transmittal:
+	acad.fmp
+	Fonts\simplex.shx
+	Fonts\arial.ttf
+	Fonts\txt.shx
+	Fonts\romans.shx
+	Fonts\ltypeshp.shx
+
+The following files could not be located:
+	X-OPTA1D.(shx,ttf)
+	LOW_RES_FILLED.(shx,ttf)
+	Plan\3B52X-MAGP-P-L001.dwg
+
+
+Conversion:
+All drawing files were converted to AutoCAD 2000/LT2000 format.
+
+
+Notes for distribution:
+
+.DWG external reference files:
+External reference (xref) paths may be present.  Make sure these paths work or that the root drawing is using the correct references.
+eTransmit does not include files required by xrefs unless they are also required by the root drawing.  In particular, plot style tables and overlay xrefs that are not used by the root drawing are omitted
+
+.PC3 printer configuration files:
+Please copy these files to the AutoCAD Printer Configuration Search Path directory.
+
+.CTB/.STB plot style tables:
+Please copy these files to the AutoCAD Plot Style Table Search Path directory.
+
+The AutoCAD variable FONTALT was set to:
+C:\Users\thomas.to\appdata\roaming\autodesk\autocad 2016\r20.1\enu\support\simplex.shx
+Please make sure that the FONTALT variable is set to this file or an equivalent before opening any drawings.  All text styles with missing fonts are automatically set to this font.
+

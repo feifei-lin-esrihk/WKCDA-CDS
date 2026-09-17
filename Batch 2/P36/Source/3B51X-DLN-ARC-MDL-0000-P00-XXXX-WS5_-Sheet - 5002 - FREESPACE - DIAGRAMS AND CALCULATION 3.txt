@@ -1,0 +1,41 @@
+Transmittal Report:
+Created by AutoCAD eTransmit Friday, 29 January 2021, 11:34 AM.
+
+Drawing:
+This is a transmittal based on 3B51X-DLN-ARC-MDL-0000-P00-XXXX-WS5_-Sheet - 5002 - FREESPACE - DIAGRAMS AND CALCULATION 3.dwg.
+
+Files:
+
+Root Drawing:
+	3B51X-DLN-ARC-MDL-0000-P00-XXXX-WS5_-Sheet - 5002 - FREESPACE - DIAGRAMS AND CALCULATION 3.dwg
+
+JPG File References:
+	3B51X-DLN-ARC-MDL-0000-P00-XXXX-WS5_-123-18721340.jpg
+	3B51X-DLN-ARC-MDL-0000-P00-XXXX-WS5_-2-18721041.jpg
+	3B51X-DLN-ARC-MDL-0000-P00-XXXX-WS5_-3-18721252.jpg
+	3B51X-DLN-ARC-MDL-0000-P00-XXXX-WS5_-Part1_Site_20160219-18208695.jpg
+	3B51X-DLN-ARC-MDL-0000-P00-XXXX-WS5_-Part2_Cop2_20160219-18208698.jpg
+	3B51X-DLN-ARC-MDL-0000-P00-XXXX-WS5_-Part3_WKL_20160219-18208701.jpg
+
+The following files were excluded from the transmittal:
+	acad.fmp
+	Fonts\simplex.shx
+	Fonts\txt.shx
+	Fonts\swiss.ttf
+	Fonts\arial.ttf
+	Fonts\romans__.ttf
+
+
+Conversion:
+All drawing files were converted to AutoCAD 2013/LT 2013 format.
+
+
+Notes for distribution:
+
+Raster image files:
+Paths may be present on references to raster images.  Make sure these paths work or that the root drawing is using the correct references.
+
+The AutoCAD variable FONTALT was set to:
+C:\Users\thomas.to\appdata\roaming\autodesk\autocad 2018\r22.0\enu\support\simplex.shx
+Please make sure that the FONTALT variable is set to this file or an equivalent before opening any drawings.  All text styles with missing fonts are automatically set to this font.
+
