@@ -32,10 +32,10 @@ import openpyxl
 # ---------------------------------------------------------------------------
  
 # Full path to the data structure workbook (the source of all field specs).
-XLSX_PATH = r"C:\Users\Sam\Git\WKCDA\WKCDA_Proposed Data Structure.xlsx"
+XLSX_PATH = r"C:\Users\Oscar\Project\WKCDA\WKCDA_Proposed Data Structure.xlsx"
  
 # Folder where the GDBs will be created.
-OUTPUT_FOLDER = r"C:\Users\Sam\Git\WKCDA"
+OUTPUT_FOLDER = r"C:\Users\Oscar\Project\WKCDA\-WKCDA-CDS\Batch 2\P30\output\P30"
  
 # Workbook entries to process. Each entry may be either a sheet name or a
 # single plan name:
@@ -44,7 +44,7 @@ OUTPUT_FOLDER = r"C:\Users\Sam\Git\WKCDA"
 #   - A single plan name (e.g. "P7") finds the sheet that covers it (e.g.
 #     "P7-18") and builds ONLY that plan's GDB, so teammates can each run
 #     their own subset, e.g. SHEETS = ["P7", "P8"].
-SHEETS = ["P7", "P18"]
+SHEETS = ["P30","P31","P32","P33"]
  
 # Spatial reference for all new feature classes, by well-known ID (WKID).
 # 2326 = Hong Kong 1980 Grid Coordinate System; change if another CRS is used.
