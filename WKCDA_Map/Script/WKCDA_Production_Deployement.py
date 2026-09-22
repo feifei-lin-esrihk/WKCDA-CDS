@@ -24,11 +24,11 @@ from arcgis.gis import GIS
 
 SOURCE_PORTAL = "https://www-uat.wkcdagis.com/portal"
 SOURCE_USERNAME = "appadmin"
-SOURCE_PASSWORD = "Esri@Wkcda2026"
+SOURCE_PASSWORD = ""
 
 TARGET_PORTAL = "https://www.wkcdagis.com/portal"
 TARGET_USERNAME = "appAdmin"
-TARGET_PASSWORD = "Esri@Wkcda2026"
+TARGET_PASSWORD = ""
 
 # Item IDs to migrate
 ITEM_IDS = [
