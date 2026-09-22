@@ -6,3 +6,4 @@
 *.lock
 WKCDA_Map/Script/config.json
 *.jpg
+*/Output/Index
