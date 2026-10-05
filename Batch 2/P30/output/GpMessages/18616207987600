@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Wednesday, September 30, 2026 4:52:16 PM</msg><msg code="539" type="100">ERROR 000539: ﻿Traceback (most recent call last):
+﻿  File "&lt;expression&gt;", line 1, in &lt;module&gt;
+﻿NameError: name 'R' is not defined
+</msg><msg code="-2147467259" type="100">Failed to execute (CalculateField).</msg><msg code="0" type="3">Failed at Wednesday, September 30, 2026 4:52:17 PM (Elapsed Time: 0.28 seconds)</msg></messages>
