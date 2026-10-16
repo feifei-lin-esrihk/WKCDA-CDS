@@ -1,0 +1,42 @@
+2026-10-09 17:56:26,670 INFO Connecting to source portal...
+2026-10-09 17:56:28,056 INFO Connecting to target portal...
+2026-10-09 17:56:29,331 INFO Processing source item: 3b2860112bb940c3a9870300456a3410
+2026-10-09 17:56:29,379 INFO Cloning: Place Names [Feature Service] ID=3b2860112bb940c3a9870300456a3410
+2026-10-09 17:56:29,703 INFO Processing Level: 0
+2026-10-09 17:57:02,708 INFO Completed
+2026-10-09 17:57:02,708 INFO Source ID : 3b2860112bb940c3a9870300456a3410
+2026-10-09 17:57:02,708 INFO Target ID : 3b2860112bb940c3a9870300456a3410
+2026-10-09 17:57:02,708 INFO Preserved : True
+2026-10-09 17:57:02,708 INFO Processing source item: b7558e7ce65a4cbab222ffbedaa6dce6
+2026-10-09 17:57:02,804 INFO Cloning: Emergency Vehicle Access Area [Feature Service] ID=b7558e7ce65a4cbab222ffbedaa6dce6
+2026-10-09 17:57:02,936 INFO Processing Level: 0
+2026-10-09 17:57:27,084 INFO Completed
+2026-10-09 17:57:27,092 INFO Source ID : b7558e7ce65a4cbab222ffbedaa6dce6
+2026-10-09 17:57:27,092 INFO Target ID : b7558e7ce65a4cbab222ffbedaa6dce6
+2026-10-09 17:57:27,100 INFO Preserved : True
+2026-10-09 17:57:27,100 INFO Processing source item: 57a30fd4875e4ee49d128ff59417e0b7
+2026-10-09 17:57:27,197 INFO Cloning: Boundary & Zoning Demo Map [Web Scene] ID=57a30fd4875e4ee49d128ff59417e0b7
+2026-10-09 17:57:27,993 INFO Processing Level: 0
+2026-10-09 17:57:28,123 INFO Lot Boundary not cloned; already existent in target org.
+2026-10-09 17:57:28,169 INFO Emergency Vehicle Access Area not cloned; already existent in target org.
+2026-10-09 17:57:28,203 INFO Development Plan Zoning not cloned; already existent in target org.
+2026-10-09 17:57:28,217 INFO Place Names not cloned; already existent in target org.
+2026-10-09 17:57:28,233 INFO Processing Level: 1
+2026-10-09 17:57:28,283 INFO Boundary & Zoning Demo Map not cloned; already existent in target org.
+2026-10-09 17:57:28,286 INFO Completed
+2026-10-09 17:57:28,290 INFO Migration completed
+2026-10-09 17:58:50,631 INFO Connecting to source portal...
+2026-10-09 17:58:51,651 INFO Connecting to target portal...
+2026-10-09 17:58:52,560 INFO Processing source item: 57a30fd4875e4ee49d128ff59417e0b7
+2026-10-09 17:58:52,587 INFO Cloning: Boundary & Zoning Demo Map [Web Scene] ID=57a30fd4875e4ee49d128ff59417e0b7
+2026-10-09 17:58:53,470 INFO Processing Level: 0
+2026-10-09 17:58:53,746 INFO Place Names not cloned; already existent in target org.
+2026-10-09 17:58:53,777 INFO Development Plan Zoning not cloned; already existent in target org.
+2026-10-09 17:58:53,788 INFO Emergency Vehicle Access Area not cloned; already existent in target org.
+2026-10-09 17:58:53,796 INFO Lot Boundary not cloned; already existent in target org.
+2026-10-09 17:58:53,796 INFO Processing Level: 1
+2026-10-09 17:58:55,550 INFO Completed
+2026-10-09 17:58:55,563 INFO Source ID : 57a30fd4875e4ee49d128ff59417e0b7
+2026-10-09 17:58:55,580 INFO Target ID : 57a30fd4875e4ee49d128ff59417e0b7
+2026-10-09 17:58:55,603 INFO Preserved : True
+2026-10-09 17:58:55,611 INFO Migration completed
